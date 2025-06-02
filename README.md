@@ -20,6 +20,10 @@
 
 ###
 
+<h2 align="left">📊 Minhas Estatísticas</h2>
+
+###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=luizdaniloalmeida&locale=pt-br&mode=weekly&theme=rose_pine&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luizdaniloalmeida&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2&custom_title=%E2%8C%A8%EF%B8%8F%20Linguagens%20Recentes" height="150" alt="languages graph"  />
@@ -28,7 +32,11 @@
 
 ###
 
-<div align="center">
+<h2 align="left">🎧 O que tenho escutado?</h2>
+
+###
+
+<div align="left">
   <a href="https://open.spotify.com/user/2234pfjix353vui2len6s5fya">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=2234pfjix353vui2len6s5fya&count=3&unique=true" alt="Spotify recently played"  />
   </a>
