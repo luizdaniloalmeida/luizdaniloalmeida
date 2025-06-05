@@ -31,15 +31,3 @@
 </div>
 
 ###
-
-<h2 align="left">🎧 O que tenho escutado?</h2>
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/2234pfjix353vui2len6s5fya">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=2234pfjix353vui2len6s5fya&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
