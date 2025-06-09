@@ -1,4 +1,4 @@
-![Header](./luizz-git-header.gif)
+![Header](./luiz-git-header-final.gif)
 
 <h2 align="left">👨🏽‍💻 Quem é o Luiz?</h2>
 
