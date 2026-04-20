@@ -128,33 +128,7 @@
   <img src="https://streak-stats.demolab.com?user=luizdaniloalmeida&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
 
-<p align="center"></p>
-
-###
-
-<div align="center">
-</div>
-
-###
-
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="0" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FpM2s0OW1sNngwZ2x2NnBpazZ1dDB2a21qYmx6NWx1bjM1MWYwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i0srp7HiEcN7m0mV5t/giphy.gif"  />
 </div>
 
 ###
