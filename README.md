@@ -20,11 +20,11 @@
 
 ###
 
-<img align="left" height="370" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWI2ajRpMHJrOGUwajF5ZTZyem44cDlocmU2azBlYXB6aXdmc3E3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3EFLRWl9ieo0ENiAKH/giphy.gif"  />
+<img align="left" height="335" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWI2ajRpMHJrOGUwajF5ZTZyem44cDlocmU2azBlYXB6aXdmc3E3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3EFLRWl9ieo0ENiAKH/giphy.gif"  />
 
 ###
 
-<p align="left">☕📊 I see Data and KPIs even at breakfast, and I turn that into strategies that actually work.<br> <br>For 6 years, I've been introducing companies to a data-driven culture. I use Python, SQL, Power BI, and Automation to turn metrics into decisions, optimize customer journeys, and make commercial teams think more analytically, without losing the human side of communication along the way.<br><br>I've worked across SaaS, B2B, and B2C environments, from executive dashboards and data pipelines to full lead acquisition and retention funnels.</p>
+<p align="center">☕📊 I see Data and KPIs even at breakfast, and I turn that into strategies that actually work.<br> <br>For 6 years, I've been introducing companies to a data-driven culture. I use Python, SQL, Power BI, and Automation to turn metrics into decisions, optimize customer journeys, and make commercial teams think more analytically, without losing the human side of communication along the way.<br><br>I've worked across SaaS, B2B, and B2C environments, from executive dashboards and data pipelines to full lead acquisition and retention funnels.</p>
 
 ###
 
@@ -36,18 +36,20 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <a href="https://www.youtube.com/@Luizdaniloalmeida" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="150" height="42" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="youtube logo"  />
   </a>
   <a href="https://www.linkedin.com/in/luizdaniloalmeida" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="150" height="42" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="linkedin logo"  />
   </a>
   <a href="luizdanilo078@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="150" height="42" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="gmail logo"  />
   </a>
   <a href="https://wa.me/5561995101195" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="150" height="42" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="whatsapp logo"  />
   </a>
 </div>
 
