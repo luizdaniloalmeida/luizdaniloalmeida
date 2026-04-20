@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">👨🏽‍💻 About Me</h2>
+<h2 align="center">👨🏽‍💻 About Me ✨</h2>
 
 ###
 
@@ -27,14 +27,6 @@
 ###
 
 <p align="center">☕📊 I see Data and KPIs even at breakfast, and I turn that into strategies that actually work.<br> <br>For 6 years, I've been introducing companies to a data-driven culture. I use Python, SQL, Power BI, and Automation to turn metrics into decisions, optimize customer journeys, and make commercial teams think more analytically, without losing the human side of communication along the way.<br> <br>I've worked across SaaS, B2B, and B2C environments, from executive dashboards and data pipelines to full lead acquisition and retention funnels.<br> <br>Developing my skills is practically a hobby, and music is my passion. I thrive on absorbing company's mission, vision, and values to help them get the best out of their data.</p>
-
-###
-
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
 ###
 
@@ -143,6 +135,14 @@
 ###
 
 <div align="center">
+</div>
+
+###
+
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
