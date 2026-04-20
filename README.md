@@ -1,29 +1,140 @@
-![Header](./luiz-git-header-final.gif)
+<br clear="both">
 
-<h2 align="left">👨🏽‍💻 Quem é o Luiz?</h2>
-
-###
-
-<p align="left">☕📊 Vejo Dados e KPIs até no café da manhã! Respiro Inbound Marketing e transformo métricas em estratégias reais, sempre com comunicação humana e personalizada para diversos públicos e segmentos. <br><br>Atuo com Marketing Digital Orientado a Dados há anos, otimizando jornadas em modelos SaaS, B2B e B2C, além de criar conteúdos estratégicos para todas as etapas do funil sem perder essência, branding e humanização. <br><br>Me desenvolver é quase um hobby, música é minha paixão - e sigo absorvendo missões, visões e valores para ajudar empresas a se conectarem com seus públicos. #SomosTodosClientes</p>
+<div align="center">
+  <img height="358" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FpM2s0OW1sNngwZ2x2NnBpazZ1dDB2a21qYmx6NWx1bjM1MWYwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i0srp7HiEcN7m0mV5t/giphy.gif"  />
+</div>
 
 ###
 
-<h2 align="left">⌨️ Minhas Linguagens</h2>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=72&section=header&reversal=false&text=Hey,%20I'm%20Luiz!&fontSize=47&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=35063e"  />
+</div>
 
 ###
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
-
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 ###
 
-<h2 align="left">📊 Minhas Estatísticas</h2>
+<img align="right" height="370" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWI2ajRpMHJrOGUwajF5ZTZyem44cDlocmU2azBlYXB6aXdmc3E3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3EFLRWl9ieo0ENiAKH/giphy.gif"  />
+
+###
+
+<h1 align="left">👨🏽‍💻 About Me</h1>
+
+###
+
+<p align="left">☕📊 I see Data and KPIs even at breakfast, and I turn that into strategies that actually work.<br> <br>For 6 years, I've been introducing companies to a data-driven culture. I use Python, SQL, Power BI, and Automation to turn metrics into decisions, optimize customer journeys, and make commercial teams think more analytically, without losing the human side of communication along the way.<br><br>I've worked across SaaS, B2B, and B2C environments, from executive dashboards and data pipelines to full lead acquisition and retention funnels.</p>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=luizdaniloalmeida&locale=pt-br&mode=weekly&theme=rose_pine&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizdaniloalmeida&radius=16&theme=nightowl&area=true&order=5&custom_title=%F0%9F%8C%9F%F0%9F%8E%96%EF%B8%8F%F0%9F%97%93%EF%B8%8F%20Meu%20Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%A3o&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+  <a href="https://www.youtube.com/@Luizdaniloalmeida" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="150" height="42" alt="youtube logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/luizdaniloalmeida" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="150" height="42" alt="linkedin logo"  />
+  </a>
+  <a href="luizdanilo078@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="150" height="42" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.me/5561995101195" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="150" height="42" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<h2 align="center">📚 Languages & Tools I've Worked With 🤖</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/clickup/000000" height="40" alt="clickup logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=webflow" height="40" alt="webflow logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bots" height="40" alt="abbrobotstudio logo"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<h2 align="center">🏆 GitHub Stats 📊</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizdaniloalmeida&radius=10&theme=chartreuse-dark&area=true&order=5&custom_title=Luiz%20Almeida's%20Contribuition%20Graph&hide_border=false" height="250" alt="activity-graph graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=luizdaniloalmeida&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<p align="center"></p>
+
+###
+
+<div align="center">
 </div>
 
 ###
