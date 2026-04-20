@@ -28,8 +28,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <a href="https://www.youtube.com/@Luizdaniloalmeida" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="150" height="42" alt="youtube logo"  />
